@@ -11,4 +11,4 @@ for student in k64_class:
         print(student.speak())
         print(student.address())
     except:
-        print("Co loi cho sinh vien:" +student.speak())
+        print("Co loi cho sinh vien:" + student.name())
