@@ -1,2 +1,1 @@
-hello
-ni hao
+print("1. Hoang Tuan Nha")
