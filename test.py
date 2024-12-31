@@ -2,7 +2,7 @@ print("1. Hoang Tuan Nha")
 print("2. Mai Vu Bao Long")
 <<<<<<< HEAD
 print("3. Hoang Tan Dung")
-print("4. PHOMMASENG EKALAT CNTT K64")
+print("4. PHOMMASENG EKALAT CNTT_K64")
 print("6. Phạm Nguyễn Bảo Đạt")
 =======
 <<<<<<< HEAD
