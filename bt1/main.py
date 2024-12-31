@@ -8,3 +8,4 @@ from student_Linh import Linh
 k64_class = [Nha(),Long(),Dung(), Ekalat(), Tham(), Linh()]
 for student in k64_class:
     print(student.speak())
+    print(student.address())
