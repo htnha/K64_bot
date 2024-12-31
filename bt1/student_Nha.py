@@ -6,3 +6,6 @@ class Nha(Student):
 
     def address(self):
         return ""
+
+    def name(self):
+        return "Nha"
