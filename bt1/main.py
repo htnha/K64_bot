@@ -7,5 +7,8 @@ from student_Linh import Linh
 # Create a list of animals
 k64_class = [Nha(),Long(),Dung(), Ekalat(), Tham(), Linh()]
 for student in k64_class:
-    print(student.speak())
-    print(student.address())
+    try:
+        print(student.speak())
+        print(student.address())
+    except:
+        print("Co loi cho sinh vien:" +student.speak())
